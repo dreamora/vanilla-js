@@ -1,0 +1,21 @@
+body {
+  background-color: green;
+}
+#app {
+  display: flex;
+  justify-content: center;
+}
+#app .content {
+  background-color: blue;
+  rotation: deg(40);
+}
+.flex-box {
+  display: flex;
+  justify-content: space-around;
+}
+.flex-box .image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/*# sourceMappingURL=styles.css.map */
